@@ -20,4 +20,4 @@ Step 6 : Install Jupyter [Notebook](https://github.com/s3p02/gcp_install_anacond
 Step 7 : Setup NVIDIA-Docker & DIGITS on [VM](https://github.com/s3p02/building_digits_on_gcp_docker/blob/master/README.md)
 
 Step 8 : Launch Jupyter to begin [Tutorial](https://github.com/s3p02/digits_docker_jupyter/blob/master/README.md).
-You can even clone this repo, launch jupyter as described in the step and run the notebook on the repo.
+You can even clone this repo, launch jupyter as described in the step and run the [notebook](https://github.com/s3p02/jupyter_gcp_nvidia-docker_digits/blob/master/gcp_docker_digits_jupyter.ipynb) on the repo.
