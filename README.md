@@ -4,8 +4,7 @@
   <img src="/cudenver.png">
 </kbd>
 
-Step 1 : Create a Free Google Cloud Platform (GCP) [account](https://github.com/s3p02/free_gcp_account/blob/master/README.md). 
-Google is giving away $300 valid for one year to use their platform.
+Step 1 : Create a Free Google Cloud Platform (GCP) [account](https://github.com/s3p02/free_gcp_account/blob/master/README.md).
 
 Step 2 : Create SSH [key](https://github.com/s3p02/create_ssh_mac_and_linux_and_windows/blob/master/README.md).
 
