@@ -22,4 +22,4 @@ Step 7 : Docker setup for DIGITS on [VM](https://github.com/s3p02/building_digit
 Step 8 : DIGITS access through [jupyter](https://github.com/s3p02/digits_docker_jupyter/blob/master/README.md).
 You can even clone this repo, launch jupyter as described in the step and run the [notebook](https://github.com/s3p02/jupyter_gcp_nvidia-docker_digits/blob/master/gcp_docker_digits_jupyter.ipynb) on the repo.
 
-Step 9 : An alternative access to DIGITS, using the web-interface. Note that if you're on a network with strict firewall, this will not work.
+Step 9 : An alternative access to DIGITS, using the [web-interface](https://github.com/s3p02/gcp_digits_web_gui/blob/master/README.md). Note that if you're on a network with strict firewall, this will not work.
