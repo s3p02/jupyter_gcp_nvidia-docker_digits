@@ -13,7 +13,7 @@ sudo ssh-keygen -t rsa -f ~/.ssh/gcp_deeplearn_gpu -C srpa3180
 ## Here I have named my key 'gcp_deeplearn_gpu' located in '~/.ssh/' and 'srpa3180' is my username
 
 <kbd>
-  <img src="create_ssh_mac_and_linux_and_windows/figs/MAC_LINUX_0_ssh_keygen.png">
+  <img src="figs/MAC_LINUX_0_ssh_keygen.png">
 </kbd>
 
 ## You can enter a passphrase if you'd like or leave it blank by just hitting Enter/return key
