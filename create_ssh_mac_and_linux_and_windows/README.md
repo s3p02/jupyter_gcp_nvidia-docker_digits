@@ -19,7 +19,7 @@ sudo ssh-keygen -t rsa -f ~/.ssh/gcp_deeplearn_gpu -C srpa3180
 ## You can enter a passphrase if you'd like or leave it blank by just hitting Enter/return key
 
 <kbd>
-  <img src="/MAC_LINUX_1_path_2_key.png">
+  <img src="jupyter_gcp_nvidia-docker_digits/create_ssh_mac_and_linux_and_windows/figs/MAC_LINUX_1_path_2_key.png">
 </kbd>
 
 ## Location to your public key is as highlighted above in red, and can be accessed with the following cat command in Step 2.
