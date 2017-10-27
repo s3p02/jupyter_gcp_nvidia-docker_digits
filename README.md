@@ -10,7 +10,7 @@ Step 2 : [Create SSH key](https://github.com/s3p02/create_ssh_mac_and_linux_and_
 
 Step 3 : [Getting started on GCP](https://github.com/s3p02/gcp_console_getting_started/blob/master/README.md)
 
-Step 4: [Login to VM using Linux/Mac OS](https://github.com/s3p02/SSH_INTO_GCP/blob/master/README.md).
+Step 4: [Login to VM using Linux/Mac OS/Windows](https://github.com/s3p02/SSH_INTO_GCP/blob/master/README.md).
 
 Step 5 : [Enable ports](https://github.com/s3p02/GCP_ENABLE_PORTS/blob/master/README.md).
 
