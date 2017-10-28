@@ -2,7 +2,7 @@
 
 ## Step i : Download Dataset
 
-Once you have the digits docker container up and running, at your terminal, enter the following to download the dataset. For our dataset, we shall use google's creative-commons licensed flower photos.
+Once you have the digits docker container up and running, at your terminal, enter the following to download the dataset. [Open Images](https://github.com/openimages/dataset) is a dataset of ~9 million URLs to images that have been annotated with image-level labels and bounding boxes spanning thousands of classes. However, for our dataset, we shall use google's creative-commons licensed flower photos.
 
 ```
 !curl http://download.tensorflow.org/example_images/flower_photos.tgz \
