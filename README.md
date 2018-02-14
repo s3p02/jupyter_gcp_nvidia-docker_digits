@@ -4,7 +4,7 @@
   <img src="/cudenver.png">
 </kbd>
 
-Step 1 : [Create a Google Cloud Platform (GCP) account](https://github.com/s3p02/jupyter_gcp_nvidia-docker_digits/tree/master/SSH_INTO_GCP).
+Step 1 : [Create a Google Cloud Platform (GCP) account](https://github.com/s3p02/jupyter_gcp_nvidia-docker_digits/tree/master/Step_GCP_Account).
 
 Step 2 : [Create SSH key](https://github.com/s3p02/jupyter_gcp_nvidia-docker_digits/tree/master/create_ssh_mac_and_linux_and_windows).
 
