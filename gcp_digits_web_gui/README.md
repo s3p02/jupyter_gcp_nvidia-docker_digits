@@ -141,6 +141,10 @@ The download is a tar ball, which you can extract and deploy.
   <img src="figs/update_10_download.png">
 </kbd>
 
-I humbly thank Dr. Dan Connors for all his support and guidance while preparing this tutorial.
+
+Stop the VM when not in use. You will be charged immediately once you run out of free credits. It's highly recommended that one stop's the VM when it's not being utilized, as the charge per hour is ~$1. Approx. you can get less than 300 hours with the free credit to play around with a GPU VM on GCP.
+
+
+I humbly thank [Dr. Dan Connors](http://ecee.colorado.edu/~dconnors/index.html) for all his support and guidance while preparing this tutorial.
 
  [Back to Main](https://github.com/s3p02/jupyter_gcp_nvidia-docker_digits)
