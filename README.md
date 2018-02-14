@@ -1,4 +1,6 @@
-# Jupyter Notebook Tutorial for Deep Learning Image Classification using Caffe on Google Cloud Platform with NVIDIA Docker
+# Deep Learning Image Classification Tutorial 
+
+We will be using the Caffe framwork on Google Cloud Platform, with Docker containers to help us get started quickly.
 
 <kbd>
   <img src="/cudenver.png">
