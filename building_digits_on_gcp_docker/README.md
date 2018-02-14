@@ -197,4 +197,4 @@ curl localhost:5000/index.json
   <img src="figs/d_3_docker.png">
 </kbd>
 
- [Back to Main](https://github.com/s3p02/jupyter_gcp_nvidia-docker_digits/blob/master/README.md)
+ [Back to Main](https://github.com/s3p02/jupyter_gcp_nvidia-docker_digits)
