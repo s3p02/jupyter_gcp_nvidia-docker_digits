@@ -143,4 +143,4 @@ The download is a tar ball, which you can extract and deploy.
 
 I humbly thank Dr. Dan Connors for all his support and guidance while preparing this tutorial.
 
- [Back to Main](https://github.com/s3p02/jupyter_gcp_nvidia-docker_digits/blob/master/README.md)
+ [Back to Main](https://github.com/s3p02/jupyter_gcp_nvidia-docker_digits)
